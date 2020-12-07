@@ -1,0 +1,13 @@
+.price-card {
+  height: 200px;
+  width: 300px;
+  margin: 0 0 0 2em;
+  padding: 1em;
+  border-radius: 0;
+}
+
+@media (min-width: 570px) {
+  .price-card {
+    margin: 0 0 2em 2em;
+  }
+}
